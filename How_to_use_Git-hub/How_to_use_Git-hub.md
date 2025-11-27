@@ -1,10 +1,12 @@
-#### 所需程式
+# 所需程式
 1. Git Bash
 2. TortoiseGit
 
 ![圖片名稱](image-1.png "游標顯示")
+![alt text](image.png)
 
 
+步驟如下
 1. Git bash
 2. Git init (Command方式)
 3. Copy data
